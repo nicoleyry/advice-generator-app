@@ -16,6 +16,7 @@
 	<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap" rel="stylesheet">
 	
 	<link rel="stylesheet" href="style.css">
+	<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 	<!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
 	<!-- <style>
 		.attribution {
@@ -32,19 +33,21 @@
 <body>
 	<div class="advice-box">
 		<div class="advice-container">
-			<p class="advice-id">Advice #<span>117</span></p>
-			<p class="advice-quote">"It is easy to sit up and take notice, what's difficult is getting up and taking action.</p>
+			<p class="advice-id">Advice #<span id="advice-id">117</span></p>
+			<p class="advice-quote" id="advice-quote">"It is easy to sit up and take notice, what's difficult is getting up and taking action.</p>
 			<picture class="advice-divider">
 				<source media="(min-width: 760px)" srcset="./images/pattern-divider-mobile.svg.svg" />
 				<img src="./images/pattern-divider-desktop.svg" alt="divider" />
 			</picture>
-			<button class="advice-btn"><img src="./images/icon-dice.svg" alt="dice"></button>
+			<button class="advice-btn" id="advice-btn"><img src="./images/icon-dice.svg" alt="dice"></button>
 		</div>
 	</div>
 	<!-- <div class="attribution">
 		Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
 		Coded by <a href="#">Your Name Here</a>.
 	</div> -->
+
+	<script src="script.js"></script>
 </body>
 
 </html>
