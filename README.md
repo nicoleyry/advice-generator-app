@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub?share=true](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub?share=true)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-advice-generator-app-by-using-axios-eSahyouhSH](https://www.frontendmentor.io/solutions/responsive-advice-generator-app-by-using-axios-eSahyouhSH)
 - Live Site URL: [https://nicoleyry.github.io/advice-generator-app/](https://nicoleyry.github.io/advice-generator-app/)
 
 ## My process
